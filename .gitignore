@@ -1,0 +1,8 @@
+*.o
+*.bin
+system.map
+duckos.tar.gz
+.DS_Store
+.idea/
+.vscode/
+.claude/
